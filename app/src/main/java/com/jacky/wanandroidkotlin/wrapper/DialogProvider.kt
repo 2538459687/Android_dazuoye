@@ -5,8 +5,8 @@ import com.afollestad.materialdialogs.MaterialDialog
 import com.jacky.wanandroidkotlin.R
 
 /**
- * @author:Hzj
- * @date  :2019/7/3/003
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：Materia Dialog提供类
  * record：
  */

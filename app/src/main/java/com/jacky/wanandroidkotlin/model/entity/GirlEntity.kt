@@ -1,8 +1,8 @@
 package com.jacky.wanandroidkotlin.model.entity
 
 /**
- * @author:Hzj
- * @date  :2020-01-20
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：
  * record：
  */

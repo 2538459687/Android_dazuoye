@@ -5,7 +5,7 @@ import android.util.AttributeSet
 import android.view.MotionEvent
 
 /**
- * @author https://github.com/funnywolfdadada
+ * @Author:YumDreaming
  * @since 2020/9/26
  */
 class CommonScrollView @JvmOverloads constructor(

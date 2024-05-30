@@ -18,7 +18,7 @@ import com.jacky.wanandroidkotlin.wrapper.loadCircle
 import com.jacky.wanandroidkotlin.wrapper.musicplay.PlayerStatus
 
 /**
- * @author:Hzj
+ * @Author:YumDreaming
  * @date  :2020/8/28
  * desc  ：dataBinding 提供了 BindingAdapter 这个注解用于支持自定义属性，或者是修改原有属性。
  * 注解值可以是已有的 xml 属性，例如 android:src、android:text等，也可以自定义属性然后在 xml 中使用

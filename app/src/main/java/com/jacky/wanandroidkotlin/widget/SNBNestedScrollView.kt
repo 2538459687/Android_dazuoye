@@ -10,8 +10,8 @@ import androidx.core.widget.NestedScrollView
 import androidx.recyclerview.widget.RecyclerView
 
 /**
- * @author:Hzj
- * @date  :2022/8/30
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：NestedScrollView 处理与bottomSheetBehavior联动滑动的效果，参照NestedRecyclerView实现
  * record：效果不太顺畅，仅供参考
  */

@@ -10,8 +10,8 @@ import androidx.recyclerview.widget.RecyclerView
 import com.jacky.wanandroidkotlin.util.log
 
 /**
- * @author:Hzj
- * @date  :2022/9/2
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：自定义处理NestedScrollView 与 子view嵌套滑动
  * record：
  */

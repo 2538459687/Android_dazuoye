@@ -24,8 +24,8 @@ import com.jacky.support.router.Router
 
 
 /**
- * @author:Hzj
- * @date  :2019/7/4/004
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：基于腾讯X5内核 webview 浏览器
  * record：
  */

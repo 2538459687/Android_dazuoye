@@ -17,7 +17,7 @@ import java.lang.ref.WeakReference;
  * 描    述：百度地图定位
  * 修订记录：
  *
- * @author hzj
+ * @Author:YumDreaming
  */
 
 public class LocationModel {

@@ -4,8 +4,8 @@ import kotlinx.coroutines.*
 import org.junit.Test
 
 /**
- * @author:Hzj
- * @date  :2022/7/4
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：普通协程范围，子协程出异常，父协程都会被取消,使用SupervisorJob定义scope，不会影响父协程
  * record：
  */

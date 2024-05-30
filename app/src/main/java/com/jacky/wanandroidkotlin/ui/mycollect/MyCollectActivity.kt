@@ -25,8 +25,8 @@ import com.jacky.support.utils.AndroidKit
 import com.jacky.support.widget.VerticalItemDecoration
 
 /**
- * @author:Hzj
- * @date  :2019-07-20
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：我的收藏
  * record：
  */

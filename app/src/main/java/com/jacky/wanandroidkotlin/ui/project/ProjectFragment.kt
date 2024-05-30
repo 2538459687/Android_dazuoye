@@ -15,8 +15,8 @@ import com.jacky.wanandroidkotlin.ui.tabhome.TabHomeFragment
 import com.jacky.wanandroidkotlin.ui.tablatestproject.TabLatestProjectFragment
 
 /**
- * @author:Hzj
- * @date  :2019/7/4/004
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：项目列表页面
  * record：
  */

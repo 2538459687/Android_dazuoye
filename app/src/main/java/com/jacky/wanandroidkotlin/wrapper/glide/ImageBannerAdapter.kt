@@ -11,8 +11,8 @@ import com.jacky.wanandroidkotlin.model.entity.BannerEntity
 import com.youth.banner.adapter.BannerAdapter
 
 /**
- * @author:Hzj
- * @date  :2022-04-27 18:15:36
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：youth banner Adapter
  * record：
  */

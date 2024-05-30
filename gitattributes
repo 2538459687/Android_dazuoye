@@ -1,0 +1,14 @@
+
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Specific settings for file types
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.sh text eol=lf
+
+# Denote all files that are truly binary and should not be modified.
+*.png binary
+*.jpg binary
+*.gif binary
+*.jpeg binary

@@ -1,8 +1,8 @@
 package com.jacky.wanandroidkotlin.test
 
 /**
- * @author:Hzj
- * @date  :2022/6/21
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：主题要设置状态栏透明，使用Palette实现沉浸式状态栏
  * record：
  */

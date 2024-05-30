@@ -1,8 +1,8 @@
 package com.jacky.wanandroidkotlin.wrapper.musicplay
 
 /**
- * @author:Hzj
- * @date  :2020/12/15
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：
  * record：
  */

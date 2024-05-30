@@ -16,8 +16,8 @@ import com.jacky.wanandroidkotlin.wrapper.viewExt
 import com.jacky.support.router.Router
 
 /**
- * @author:Hzj
- * @date  :2019/7/3/003
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：登录页
  * record：
  */

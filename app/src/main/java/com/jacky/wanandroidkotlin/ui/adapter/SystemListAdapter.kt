@@ -6,8 +6,8 @@ import com.jacky.wanandroidkotlin.R
 import com.jacky.wanandroidkotlin.model.entity.TreeParentEntity
 
 /**
- * @author:Hzj
- * @date  :2019/7/5/005
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：体系 列表adapter
  * record：
  */

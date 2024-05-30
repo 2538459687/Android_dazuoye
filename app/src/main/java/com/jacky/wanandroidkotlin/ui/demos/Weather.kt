@@ -30,8 +30,8 @@ import kotlin.math.max
 import kotlin.math.min
 
 /**
- * @author:Hzj
- * @date  :2022/10/27
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：天气模块，自定义view绘制图表
  * record：
  */

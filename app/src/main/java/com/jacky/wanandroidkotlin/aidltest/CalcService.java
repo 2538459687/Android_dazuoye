@@ -11,8 +11,8 @@ import androidx.annotation.Nullable;
 import com.jacky.wanandroidkotlin.aidl.ICalcAIDL;
 
 /**
- * @author:Hzj
- * @date :2022/3/2
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：aidl测试service
  * record：
  */

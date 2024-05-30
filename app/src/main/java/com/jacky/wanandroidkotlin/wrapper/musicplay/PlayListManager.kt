@@ -8,8 +8,8 @@ import kotlinx.coroutines.launch
 import kotlin.random.Random
 
 /**
- * @author:Hzj
- * @date  :2020/12/14
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：管理音乐播放列表
  * record：
  */

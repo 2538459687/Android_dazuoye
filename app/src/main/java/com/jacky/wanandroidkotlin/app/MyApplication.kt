@@ -31,8 +31,8 @@ class App : MultiDexApplication() {
 }
 
 /**
- * @author:Hzj
- * @date  :2018/10/30/030
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：
  * record：
  */

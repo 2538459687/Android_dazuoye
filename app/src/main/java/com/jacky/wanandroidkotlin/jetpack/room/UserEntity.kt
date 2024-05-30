@@ -7,8 +7,8 @@ import androidx.room.PrimaryKey
 import androidx.room.RoomWarnings
 
 /**
- * @author:Hzj
- * @date  :2022/6/9
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：定义数据库实体类
  * record：
  */

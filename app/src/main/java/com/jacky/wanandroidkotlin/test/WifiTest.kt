@@ -4,8 +4,8 @@ import android.net.wifi.ScanResult
 
 
 /**
- * @author:Hzj
- * @date  :2021/7/12
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：通过WiFi信息判断当前连接的WiFi频段是2.4G,5G，或者2.4、5G双模
  * record：
  */

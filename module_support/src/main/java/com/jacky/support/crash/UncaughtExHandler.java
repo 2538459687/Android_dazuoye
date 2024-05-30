@@ -25,7 +25,7 @@ import java.util.Locale;
  * 描    述：异常信息捕获者,持久化异常信息到本地
  * 修订记录：
  *
- * @author hzj
+ * @Author:YumDreaming
  */
 public final class UncaughtExHandler implements UncaughtExceptionHandler {
 

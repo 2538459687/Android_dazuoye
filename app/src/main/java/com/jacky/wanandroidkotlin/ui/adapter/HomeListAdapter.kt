@@ -11,8 +11,8 @@ import com.jacky.wanandroidkotlin.model.entity.ArticleEntity
 import com.jacky.wanandroidkotlin.wrapper.isNotNullAndNotEmpty
 
 /**
- * @author:Hzj
- * @date  :2019/7/2/002
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：首页列表Adapter
  * record：
  */

@@ -7,8 +7,8 @@ import com.tencent.smtt.sdk.WebView
 import com.tencent.smtt.sdk.WebViewClient
 
 /**
- * @author:Hzj
- * @date  :2019/7/4/004
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：X5内核WebView包装
  * record：
  */

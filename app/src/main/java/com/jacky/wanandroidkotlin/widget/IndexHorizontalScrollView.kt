@@ -6,8 +6,8 @@ import android.util.AttributeSet
 import android.widget.HorizontalScrollView
 
 /**
- * @author:Hzj
- * @date  :2022/11/11
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：自定义HorizontalScrollView，内部只能包含一个子view，监听滚动偏移量，设置内部小时温度文字偏移
  * record：
  */

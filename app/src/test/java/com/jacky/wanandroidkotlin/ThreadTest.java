@@ -7,8 +7,8 @@ import java.util.List;
 import java.util.Queue;
 
 /**
- * @author:Hzj
- * @date :2019/6/26/026
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：Thread.stop()强制停止线程，不推荐
  * Thread.interrupt()设置停止标记，配合isInterrupted()在runnable中使用
  * record：

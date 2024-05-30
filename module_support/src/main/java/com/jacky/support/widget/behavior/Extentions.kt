@@ -12,7 +12,7 @@ import androidx.core.view.ViewCompat
 /**
  * 这里放一些只访问公共属性/方法的扩展方法
  *
- * @author https://github.com/funnywolfdadada
+ * @Author:YumDreaming
  * @since 2020/10/24
  */
 /**
@@ -133,7 +133,7 @@ fun <T: Number> T.constrains(min: T, max: T): T = when {
  * [stopScroll] 停止滚动
  * [constrains] 限定数字的范围
  *
- * @author https://github.com/funnywolfdadada
+ * @Author:YumDreaming
  * @since 2020/3/31
  */
 fun View.isUnder(rawX: Float, rawY: Float): Boolean {

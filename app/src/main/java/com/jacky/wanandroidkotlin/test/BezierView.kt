@@ -8,8 +8,8 @@ import android.view.View
 import com.jacky.wanandroidkotlin.util.DisplayUtils
 
 /**
- * @author:Hzj
- * @date  :2022/11/17
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：贝塞尔二阶曲线，由起始点，终点，控制点组成
  * record：
  */

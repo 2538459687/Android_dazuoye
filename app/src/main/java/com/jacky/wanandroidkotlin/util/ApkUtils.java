@@ -26,7 +26,7 @@ import java.util.zip.ZipFile;
 /**
  * apk工具类
  *
- * @author wangr
+ * @Author:YumDreaming
  */
 public class ApkUtils {
 

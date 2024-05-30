@@ -1,8 +1,8 @@
 package com.jacky.wanandroidkotlin.designmode
 
 /**
- * @author:Hzj
- * @date  :2022/3/1
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：装饰模式
  * record：
  */

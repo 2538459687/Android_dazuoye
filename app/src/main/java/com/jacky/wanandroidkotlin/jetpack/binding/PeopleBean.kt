@@ -4,8 +4,8 @@ import androidx.databinding.BaseObservable
 import androidx.databinding.ObservableField
 
 /**
- * @author:Hzj
- * @date  :2020/12/12
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：DataBinding单向绑定 BaseObservable
  * record：1.notifyPropertyChanged(); 只会刷新属于它的UI，就如代码，他只会更新name。
  *         2.notifyChange(); 会刷新所有UI

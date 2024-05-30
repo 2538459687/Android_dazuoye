@@ -11,8 +11,8 @@ import com.jacky.wanandroidkotlin.model.entity.DailyEntity
 import com.jacky.wanandroidkotlin.util.DisplayUtils
 
 /**
- * @author:Hzj
- * @date  :2022/10/31
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：天气温度折线自定义view
  * record：
  */

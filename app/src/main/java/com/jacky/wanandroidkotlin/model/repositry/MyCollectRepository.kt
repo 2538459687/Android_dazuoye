@@ -5,8 +5,8 @@ import com.jacky.wanandroidkotlin.model.entity.ArticleList
 import com.jacky.wanandroidkotlin.model.entity.WanResponse
 
 /**
- * @author:Hzj
- * @date  :2019-07-20
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：我的收藏文章列表
  * record：
  */

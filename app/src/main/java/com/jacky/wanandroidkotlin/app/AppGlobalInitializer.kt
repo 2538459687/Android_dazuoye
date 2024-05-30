@@ -6,8 +6,8 @@ import com.jacky.support.CommonInitializer
 import com.jacky.wanandroidkotlin.ui.demos.WeatherResManager
 
 /**
- * @author:Hzj
- * @date  :2020/12/1
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：startup全局管理所有module初始化
  * record：注意：先执行这里的create,最后执行application的create
  */

@@ -14,7 +14,7 @@ import com.jacky.wanandroidkotlin.databinding.TwoDataBinding
 import com.jacky.wanandroidkotlin.wrapper.viewClickListener
 
 /**
- * @author:Hzj
+ * @Author:YumDreaming
  * @date  :2020/11/27
  * desc  :DataBinding learning
  * record：

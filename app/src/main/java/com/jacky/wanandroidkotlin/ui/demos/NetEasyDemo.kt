@@ -1,8 +1,8 @@
 package com.jacky.wanandroidkotlin.ui.demos
 
 /**
- * @author:Hzj
- * @date  :2021/11/22
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：仿网易云歌单 pager
  * record：
  */

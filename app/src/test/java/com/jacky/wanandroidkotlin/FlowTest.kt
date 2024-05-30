@@ -6,8 +6,8 @@ import org.junit.Test
 import kotlin.system.measureTimeMillis
 
 /**
- * @author:Hzj
- * @date  :2021/7/27
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：Kotlin Flow使用
  * record：flow 是 Cold Stream。在没有切换线程的情况下，生产者和消费者是同步非阻塞的。
  * channel 是 Hot Stream。而 channelFlow 实现了生产者和消费者异步非阻塞模型

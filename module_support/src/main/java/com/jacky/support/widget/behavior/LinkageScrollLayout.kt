@@ -8,7 +8,7 @@ import androidx.core.view.ViewCompat
 /**
  * 联动滚动布局
  *
- * @author https://github.com/funnywolfdadada
+ * @Author:YumDreaming
  * @since 2020/9/26
  */
 class LinkageScrollLayout @JvmOverloads constructor(

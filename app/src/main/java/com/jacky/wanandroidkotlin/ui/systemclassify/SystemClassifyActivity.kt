@@ -10,8 +10,8 @@ import com.jacky.wanandroidkotlin.ui.adapter.BaseViewPager2Adapter
 import com.jacky.support.router.Router
 
 /**
- * @author:Hzj
- * @date  :2019/7/5/005
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：体系分类页面
  * record：
  */

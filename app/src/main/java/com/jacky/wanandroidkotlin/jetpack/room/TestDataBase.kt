@@ -6,8 +6,8 @@ import androidx.room.RoomDatabase
 import com.jacky.wanandroidkotlin.model.local.ContextModel
 
 /**
- * @author:Hzj
- * @date  :2022/6/10
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：Room数据库必须是一个继承自RoomDatabase的抽象类。通常情况下应用内应该只有一个Room数据库实例。
  * 注释1处使用@Database注解WordRoomDatabase类，并指定数据库中的表，版本号和是否在指定的schemaLocation目录下输出数据库架构信息
  * record：

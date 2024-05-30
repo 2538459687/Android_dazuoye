@@ -8,8 +8,8 @@ import retrofit2.converter.gson.GsonConverterFactory
 import java.util.concurrent.TimeUnit
 
 /**
- * @author:Hzj
- * @date  :2019/7/2/002
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：retrofit+okhttp3 基类
  * record：
  */

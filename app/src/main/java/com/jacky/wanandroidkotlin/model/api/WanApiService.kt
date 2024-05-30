@@ -5,8 +5,8 @@ import com.jacky.wanandroidkotlin.model.entity.*
 import retrofit2.http.*
 
 /**
- * @author:Hzj
- * @date  :2019/7/2/002
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：WanAndroid Api 接口
  * record：suspend标记的函数，retrofit会自动切换线程处理请求
  */

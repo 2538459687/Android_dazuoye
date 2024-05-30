@@ -27,7 +27,7 @@ import kotlin.math.abs
  * 5、对子类暴露 [NestedScrollBehavior]，只用实现很少的方法，就可以控制嵌套滚动各个阶段的优先级问题
  * 6、推荐继承而不是组合的方式是因为，嵌套滚动的功能性比较垂直，而且会和自身有很多交互
  *
- * @author https://github.com/funnywolfdadada
+ * @Author:YumDreaming
  * @since 2020/9/26
  */
 open class BehavioralScrollView @JvmOverloads constructor(

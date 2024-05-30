@@ -11,8 +11,8 @@ import java.lang.ref.WeakReference
 import java.util.*
 
 /**
- * @author:Hzj
- * @date  :2020/5/7
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ： 全局生命周期观察者
  * record：
  */

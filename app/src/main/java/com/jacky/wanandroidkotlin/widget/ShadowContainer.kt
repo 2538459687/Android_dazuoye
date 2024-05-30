@@ -10,7 +10,7 @@ import com.jacky.wanandroidkotlin.R
 /**
  * 自定义view绘制阴影
  * 在recyclerview中使用，有性能问题，建议单独使用
- * @author chenjun
+ * @Author:YumDreaming
  * https://github.com/cjlemon/Shadow
  * create at 2018/9/22
  */

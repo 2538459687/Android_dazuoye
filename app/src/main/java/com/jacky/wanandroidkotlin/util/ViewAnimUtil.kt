@@ -12,8 +12,8 @@ import androidx.annotation.ColorRes
 import androidx.core.content.ContextCompat
 
 /**
- * @author:Hzj
- * @date  :2018/12/18/018
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：动画工具类
  * record：
  */

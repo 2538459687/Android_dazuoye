@@ -4,7 +4,7 @@ import android.util.Log
 import androidx.recyclerview.widget.RecyclerView
 
 /**
- * @author:Hzj
+ * @Author:YumDreaming
  * @date :2019/8/27/027
  * desc  ：FloatingActionButton随recyclerView上滑隐藏,下滑显示
  * record：dy > 0 ：手指向上滚动,列表滚动显示下面的内容,dy < 0 ：手指向下滚动,列表滚动显示上面的内容

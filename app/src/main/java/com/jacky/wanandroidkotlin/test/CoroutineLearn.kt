@@ -3,8 +3,8 @@ package com.jacky.wanandroidkotlin.test
 import kotlinx.coroutines.*
 
 /**
- * @author:Hzj
- * @date  :2020/8/4
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：协程练习
  * record：
  */

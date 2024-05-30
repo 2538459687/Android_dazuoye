@@ -7,8 +7,8 @@ import com.jacky.wanandroidkotlin.model.entity.BannerEntity
 import com.jacky.wanandroidkotlin.model.entity.WanResponse
 
 /**
- * @author:Hzj
- * @date  :2019/7/2/002
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：首页获取数据 model管理仓库
  * record：
  */

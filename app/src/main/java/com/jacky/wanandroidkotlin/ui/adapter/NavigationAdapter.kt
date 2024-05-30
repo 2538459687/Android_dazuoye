@@ -17,8 +17,8 @@ import com.zhy.view.flowlayout.TagAdapter
 import com.zhy.view.flowlayout.TagFlowLayout
 
 /**
- * @author:Hzj
- * @date  :2019-07-18
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：导航列表adapter
  * record：
  */

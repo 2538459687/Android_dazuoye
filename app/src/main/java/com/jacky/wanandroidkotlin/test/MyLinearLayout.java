@@ -6,8 +6,8 @@ import android.view.View;
 import android.view.ViewGroup;
 
 /**
- * @author:Hzj
- * @date :2020/4/30
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：自定义viewGroup-模仿LinearLayout
  * record：
  */

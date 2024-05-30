@@ -1,8 +1,8 @@
 package com.jacky.wanandroidkotlin.test
 
 /**
- * @author:Hzj
- * @date  :2022/2/15
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：kotlin 委托模式
  * record：委托模式已经证明是实现继承的⼀个很好的替代⽅式， ⽽ Kotlin 可以零样板代码地原⽣ ⽀持它
  */

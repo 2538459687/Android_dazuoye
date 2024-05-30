@@ -4,7 +4,7 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
 /**
- * @author:Hzj
+ * @Author:YumDreaming
  * @date :2019/6/21/021
  * desc  ：学习liveData
  * record：

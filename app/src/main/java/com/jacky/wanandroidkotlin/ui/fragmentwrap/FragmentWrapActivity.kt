@@ -11,8 +11,8 @@ import com.jacky.support.managers.FragmentSwitchHelper
 import com.jacky.support.router.Router
 
 /**
- * @author:Hzj
- * @date  :2019/7/4/004
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：fragment容器Activity
  * record：
  */

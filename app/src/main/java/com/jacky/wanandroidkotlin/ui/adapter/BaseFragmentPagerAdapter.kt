@@ -7,8 +7,8 @@ import androidx.lifecycle.Lifecycle
 import androidx.viewpager2.adapter.FragmentStateAdapter
 
 /**
- * @author:Hzj
- * @date  :2019/7/1/001
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：fragment+viewpager Adapter
  * desc  ：viewpager+fragment切换adapter
  * record：该类内的每一个生成的 Fragment 都将保存在内存之中，

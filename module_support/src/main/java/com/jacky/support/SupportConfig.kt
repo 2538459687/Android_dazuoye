@@ -6,7 +6,7 @@ import android.os.Environment
  * 描    述：
  * 修订记录：
  *
- * @author hzj
+ * @Author:YumDreaming
  */
 object SupportConfig {
     const val DEFAULT_TAG = "Logger"

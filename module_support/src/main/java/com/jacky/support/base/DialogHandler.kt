@@ -24,7 +24,7 @@ import android.view.ContextThemeWrapper
 /**
  * 用于安全的进行Dialog显示隐藏的工具类
  *
- * @author haoge
+ * @Author:YumDreaming
  */
 object DialogHandler {
     fun safeShowDialog(dialog: Dialog?) {

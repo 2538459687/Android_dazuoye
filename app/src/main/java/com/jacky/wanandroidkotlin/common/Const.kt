@@ -3,8 +3,8 @@ package com.jacky.wanandroidkotlin.common
 import com.jacky.wanandroidkotlin.R
 
 /**
- * @author:Hzj
- * @date  :2019/7/4/004
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：
  * record：
  */

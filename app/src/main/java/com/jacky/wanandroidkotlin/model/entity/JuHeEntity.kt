@@ -1,8 +1,8 @@
 package com.jacky.wanandroidkotlin.model.entity
 
 /**
- * @author:Hzj
- * @date  :2022/10/14
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：聚合api 返回数据实体
  * record：
  */

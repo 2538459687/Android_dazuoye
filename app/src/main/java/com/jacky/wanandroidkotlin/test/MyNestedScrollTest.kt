@@ -1,8 +1,8 @@
 package com.jacky.wanandroidkotlin.test
 
 /**
- * @author:Hzj
- * @date  :2022/9/2
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：自定义实现酷安应用详情嵌套滚动，存在诸多问题：fling状态未处理，layoutBottom未处理吸顶
  * record：
  */

@@ -7,8 +7,8 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.viewbinding.ViewBinding
 
 /**
- * @author:Hzj
- * @date  :2018/10/30/030
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：ViewModel封装基类Activity
  * record：
  */

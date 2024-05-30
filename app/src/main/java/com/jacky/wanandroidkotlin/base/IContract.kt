@@ -5,8 +5,8 @@ import com.jacky.support.base.IActivity
 import java.lang.reflect.ParameterizedType
 
 /**
- * @author:Hzj
- * @date  :2018/10/30/030
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：
  * record：
  */

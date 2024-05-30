@@ -18,8 +18,8 @@ import com.jacky.support.base.IUiController
 import com.jacky.support.utils.AndroidKit
 
 /**
- * @author:Hzj
- * @date  :2018/10/30/030
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：baseActivity 基类
  * record：
  */

@@ -1,0 +1,272 @@
+[33mcommit 62c202edbd65ab31de20354f3ece6dff99ac8e43[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: huangzijieosc <72167680@bbktel.com>
+Date:   Fri Nov 24 10:34:03 2023 +0800
+
+    test
+
+[33mcommit 32bdff84b68b31da3b40b2bd4e1f65c78f503750[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Fri Feb 24 16:56:35 2023 +0800
+
+    更新 toastutils
+
+[33mcommit 501e8a86110f204fc7f8d55bde8e0a6306dfc53e[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Thu Feb 9 17:25:16 2023 +0800
+
+    add 天气空气信息完善，优化小时天气图片绘制
+
+[33mcommit 0e9bf9d82b34465e667872853be58b9859b711a9[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Wed Feb 8 16:50:25 2023 +0800
+
+    add 逐小时天气完成
+
+[33mcommit c93d5837361d771925a8ed06133c98dc0f7e1446[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Tue Jan 31 16:35:28 2023 +0800
+
+    add 阴影View ShadowContainer.kt 调试，在列表中有性能问题，不要在列表中使用
+
+[33mcommit a0d705e0fd56d502d340d71ac1d6bb0613a4da01[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Thu Dec 1 15:01:39 2022 +0800
+
+    add 贝塞尔曲线练习，拼图游戏
+
+[33mcommit e6817ed472b951ccad52ca43ca23405bef1217d1[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Tue Nov 8 17:37:34 2022 +0800
+
+    add 天气折线图练习
+
+[33mcommit a03f45ca4e0c354684ab6715bcd17d071e366e9a[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Mon Oct 24 10:02:16 2022 +0800
+
+    update colorTint
+
+[33mcommit c9089e381c9854a70d8837d4bc2b7b38cd9b465e[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Mon Oct 17 14:37:43 2022 +0800
+
+    fix 修复无网络时协程async方法异常未处理问题，注意协程取消时作用域问题
+
+[33mcommit bfbd54747ada5205a8631836f8113c540315a81c[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Sun Oct 9 15:40:22 2022 +0800
+
+    add 引导页，使用Lottie动画
+
+[33mcommit e2e702e19805546655ea7d00fcb0b1319d67362d[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Fri Sep 30 11:47:37 2022 +0800
+
+    update 适配Android10存储分区
+
+[33mcommit 0f9f77f229803f3079780b20b4278cb4e94ce6eb[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Wed Sep 28 14:58:53 2022 +0800
+
+    update proguard-rules.pro
+
+[33mcommit d8b5f4d12261b22580929a4e1c7766388262aeae[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Tue Sep 20 10:45:37 2022 +0800
+
+    update lib version
+
+[33mcommit a23976cc4876c654babe380990be714d3bd71611[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Mon Sep 19 17:49:25 2022 +0800
+
+    update 福利图片接口替换
+
+[33mcommit 658ef484da7e48ea3caacfcb111cb155d15c64cf[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Tue Sep 13 17:25:08 2022 +0800
+
+    update 监听来电和短信测试
+
+[33mcommit ef201288dadc0c849b13de17b2bac0c0f46ee7c5[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Mon Sep 5 16:49:25 2022 +0800
+
+    update 仿酷安应用详情嵌套滑动自己尝试实现
+
+[33mcommit a116e6b53b54d65969a0a37b0ae32e3313cf6d28[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Thu Sep 1 16:30:19 2022 +0800
+
+    update 仿酷安应用详情联动滑动效果实现
+
+[33mcommit a8205b6f42c5402295c07f1cfb18b7a1a2ab5db4[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Mon Aug 29 18:04:14 2022 +0800
+
+    update 自定义view处理wrap_content
+
+[33mcommit 5f2136ec320a2ecba082a7fad373ed75428212ba[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Mon Aug 29 10:41:13 2022 +0800
+
+    update 测量scrollview高度，实现自定义滑动指示器（小米商城有感）
+
+[33mcommit 22757504c4f209d42291dc3957cb2bd56a217780[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Fri Aug 26 15:05:06 2022 +0800
+
+    update textSwitcher轮播
+
+[33mcommit c8b3b83c9558ce49b321c16b87e01ebc8becfc39[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Tue Aug 23 15:26:12 2022 +0800
+
+    update 圆形ripple实现方式
+
+[33mcommit 75fc4a791627a079a9c09eb96322b4f6cc08d9a7[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Tue Aug 16 10:40:24 2022 +0800
+
+    update viewpager2禁止滑动
+
+[33mcommit 3fb95ce8cc0addfc120fb64b514c619913ac7e2e[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Mon Aug 15 15:49:14 2022 +0800
+
+    fix viewpager2+fragment 数据错乱，原因是fragment的viewmodel初始化传值的是requireactivity，而不是fragment本身引起
+
+[33mcommit 4a77c5d484938a836143e13330eb29083de643be[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Wed Jul 6 14:49:41 2022 +0800
+
+    动态更换logo实现
+
+[33mcommit 1cd1e7425acfa6b00579702bea4b0361038237f5[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Tue Jul 5 15:53:16 2022 +0800
+
+    fix bugs
+
+[33mcommit c89a4eeb9221c17fa6c7e2f26a9b7f7dba694159[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Mon Jul 4 17:58:11 2022 +0800
+
+    kotlin supervisorJob 学习
+
+[33mcommit 36635e25bcb3515515c8b5a2a97f99246971e688[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Tue Jun 21 18:17:26 2022 +0800
+
+    immer palette实现方案学习
+
+[33mcommit 910b0625b69058d60f6671ea9ae9de848f3c8272[m
+Author: jackyHuang <android_huangzijie@mail.com>
+Date:   Mon Jun 20 15:34:08 2022 +0800
+
+    卡顿问题因 android:hardwareAccelerated="false"引起。。。
+
+[33mcommit 6a5cd293f677efc5a8734d0a50159d888937306e[m
+Author: jackyHuang <android_huangzijie@mail.com>
+Date:   Thu Jun 2 17:58:37 2022 +0800
+
+    update 调试卡顿问题，未果
+
+[33mcommit 233e3951fb248fd801b17e869ec0b01d98f705fb[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Tue May 24 09:50:59 2022 +0800
+
+    Ripple 无效，暂未知处理方案
+
+[33mcommit e622ae2cfe8065d475f5440db054b1fda340d675[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Thu May 19 16:37:49 2022 +0800
+
+    immer 全面屏底部导航栏适配
+
+[33mcommit 6a6675191d16374419c18b85b7e0b441dcdb7ad3[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Mon May 16 18:11:00 2022 +0800
+
+    viewpager2
+
+[33mcommit fc676d9e972f932e8fa44eba5f75544bd82872b1[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Fri May 13 18:00:33 2022 +0800
+
+    motionlayout learning
+
+[33mcommit 064028c274d15e4b780b7f8709320151477358eb[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Fri May 13 13:50:16 2022 +0800
+
+    update gradle,viewModelProviders
+
+[33mcommit 1121af066c9d1ad33cc083acf8802e18be480207[m
+Author: Hzj <huangzijie0319@gamil.com>
+Date:   Wed May 11 21:43:26 2022 +0800
+
+    update  gradle
+
+[33mcommit 4f2108e1bdcc8ddbc9029bfa40d9dee9c498df40[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Mon May 9 10:18:10 2022 +0800
+
+    update 大图预览
+
+[33mcommit d8bebfdd697c86c631f9de8403fd6ae1b7ed7b0f[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Sat May 7 16:50:16 2022 +0800
+
+    update 瀑布流实现
+
+[33mcommit 4ffa497123926194ffa824b91306555a92f57e38[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Thu Apr 28 09:23:45 2022 +0800
+
+    update banner
+
+[33mcommit efe1c5beb663b73edde7c58e31eb9b42455db42b[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Wed Apr 27 16:42:06 2022 +0800
+
+    自定义view绘制dashboard练习
+
+[33mcommit 093c65c7ab5f9af9b019e4e31ab8ce141e086364[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Tue Apr 26 17:55:00 2022 +0800
+
+    适配屏幕高刷
+
+[33mcommit 036611bd4aa64cf0d698f615f43d114203692130[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Thu Apr 14 15:14:24 2022 +0800
+
+    update gradle
+
+[33mcommit 328eb9edc9344cc1eb0d8cbc54df04597c5d185a[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Tue Apr 12 16:53:30 2022 +0800
+
+    update FragmentSwitchHelper.kt
+
+[33mcommit 96b36018e9780aab65049f7b61ef1dd4c9112ac8[m
+Author: hzj <android_huangzijie@mail.com>
+Date:   Fri Apr 8 09:40:55 2022 +0800
+
+    update utils
+
+[33mcommit 4b69845ed7b6e7cd7f0235ed919017037a6bacae[m
+Author: huangzijie <huangzijie@zenchn.com>
+Date:   Wed Mar 2 17:37:48 2022 +0800
+
+    aidl test
+
+[33mcommit ea78009e4e0d40cc5c723a865129f00dc07f2443[m
+Author: huangzijie <huangzijie@zenchn.com>
+Date:   Tue Mar 1 17:39:11 2022 +0800
+
+    update
+
+[33mcommit 95bf961dacb9bd52a60873696c79f60929fecb1e[m
+Aut

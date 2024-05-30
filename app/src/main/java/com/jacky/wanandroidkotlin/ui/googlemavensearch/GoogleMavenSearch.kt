@@ -1,8 +1,8 @@
 package com.jacky.wanandroidkotlin.ui.googlemavensearch
 
 /**
- * @author:Hzj
- * @date  :2020/5/15
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ： Google Maven 快速查询
  * record：
  */

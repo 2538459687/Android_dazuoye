@@ -7,8 +7,8 @@ import q.rorbin.verticaltablayout.adapter.SimpleTabAdapter
 import q.rorbin.verticaltablayout.widget.ITabView
 
 /**
- * @author:Hzj
- * @date  :2019-07-18
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：垂直tab Adapter
  * record：
  */

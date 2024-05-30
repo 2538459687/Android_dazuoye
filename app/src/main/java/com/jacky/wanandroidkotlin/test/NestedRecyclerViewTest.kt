@@ -24,8 +24,8 @@ import com.jacky.wanandroidkotlin.util.setClipViewCornerRadius
 import com.jacky.wanandroidkotlin.wrapper.glide.GlideApp
 
 /**
- * @author:Hzj
- * @date  :2022/8/30
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：仿酷安应用详情页 bottomSheetBehavior联动滑动效果
  * record：参考：https://juejin.cn/post/6976443779762880549
  * https://juejin.cn/post/6854573214161436679（推荐）

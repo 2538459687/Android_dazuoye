@@ -7,8 +7,8 @@ import com.tencent.mmkv.MMKV
 import com.jacky.support.utils.StringUtils
 
 /**
- * @author: hzj
- * @date 2022-07-05 16:39:19
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * mmkv工具类
  */
 object MMKVUtils {

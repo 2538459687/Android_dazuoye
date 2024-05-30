@@ -7,8 +7,8 @@ import kotlin.coroutines.CoroutineContext
 import kotlin.system.measureTimeMillis
 
 /**
- * @author:Hzj
- * @date  :2019/6/24/024
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：协程学习 官方文档：http://www.kotlincn.net/docs/reference/coroutines/channels.html
  * record：//第一个协程
  * 在 Kotlin 中有一个约定：如果函数的最后一个参数接受函数，那么作为相应参数传入的 lambda 表达式可以放在圆括号之外(即在{}中)

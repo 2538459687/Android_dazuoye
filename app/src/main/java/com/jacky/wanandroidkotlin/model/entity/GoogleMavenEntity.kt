@@ -1,8 +1,8 @@
 package com.jacky.wanandroidkotlin.model.entity
 
 /**
- * @author:Hzj
- * @date  :2020/5/15
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ： Google Maven 仓库搜索数据实体
  * record：
  */

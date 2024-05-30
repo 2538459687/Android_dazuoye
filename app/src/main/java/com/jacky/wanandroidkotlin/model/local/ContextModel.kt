@@ -6,8 +6,8 @@ import com.jacky.wanandroidkotlin.app.ApplicationKit
 import io.reactivex.Observable
 
 /**
- * @author:Hzj
- * @date  :2018/12/20/020
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：提供applicationContext
  * record：
  */

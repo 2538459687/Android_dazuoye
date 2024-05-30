@@ -8,7 +8,7 @@ import android.widget.GridView;
  * Scroll嵌套显示GridView,无法滑动
  * 完全展示
  *
- * @author hzj
+ * @Author:YumDreaming
  */
 public class HeighGridView extends GridView {
 

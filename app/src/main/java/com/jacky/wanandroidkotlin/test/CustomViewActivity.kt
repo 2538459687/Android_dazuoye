@@ -1,8 +1,8 @@
 package com.jacky.wanandroidkotlin.test
 
 /**
- * @author:Hzj
- * @date  :2022/11/17
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：自定义view测试页面
  * record：
  */

@@ -3,8 +3,8 @@ package com.jacky.wanandroidkotlin.model.entity
 import java.io.Serializable
 
 /**
- * @author:Hzj
- * @date  :2019/7/4/004
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：树 子节点数据实体
  * record：
  */

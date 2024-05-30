@@ -3,8 +3,8 @@ package com.jacky.wanandroidkotlin.model.local
 import com.jacky.support.cache.ACache
 
 /**
- * @author:Hzj
- * @date  :2018/12/21/021
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：ACache 缓存工具类封装
  * record：
  */

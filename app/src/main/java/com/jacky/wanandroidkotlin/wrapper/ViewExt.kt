@@ -16,8 +16,8 @@ import com.jacky.support.base.IActivity
 import java.lang.reflect.ParameterizedType
 
 /**
- * @author:Hzj
- * @date  :2020/12/21
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：View相关扩展函数
  * record：
  */

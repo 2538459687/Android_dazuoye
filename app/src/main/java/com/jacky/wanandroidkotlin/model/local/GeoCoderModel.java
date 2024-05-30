@@ -14,7 +14,7 @@ import com.jacky.support.utils.LoggerKit;
  * 描    述：
  * 修订记录：
  *
- * @author hzj
+ * @Author:YumDreaming
  */
 
 public class GeoCoderModel {

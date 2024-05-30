@@ -5,8 +5,8 @@ import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 
 /**
- * @author:Hzj
- * @date :2022/5/26
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：SharedPreferences工具类
  * record：
  */

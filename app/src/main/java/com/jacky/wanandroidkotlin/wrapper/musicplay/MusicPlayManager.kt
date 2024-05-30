@@ -4,8 +4,8 @@ import android.content.Context
 import android.os.CountDownTimer
 
 /**
- * @author:Hzj
- * @date  :2020/12/12
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：音乐播放管理工具
  * record：
  */

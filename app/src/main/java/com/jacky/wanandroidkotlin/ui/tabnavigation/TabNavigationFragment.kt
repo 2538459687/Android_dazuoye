@@ -15,8 +15,8 @@ import q.rorbin.verticaltablayout.VerticalTabLayout
 import q.rorbin.verticaltablayout.widget.TabView
 
 /**
- * @author:Hzj
- * @date  :2019/7/1/001
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：导航Tab
  * record：
  */

@@ -6,8 +6,8 @@ import android.os.IBinder
 import android.util.Log
 
 /**
- * @author:Hzj
- * @date  :2020/12/16
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：音乐播放服务，管理播放器初始化和资源回收
  * record：
  */

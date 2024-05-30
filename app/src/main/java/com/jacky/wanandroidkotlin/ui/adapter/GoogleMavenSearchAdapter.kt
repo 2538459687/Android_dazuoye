@@ -13,8 +13,8 @@ import com.jacky.support.utils.AndroidKit
 import com.jacky.support.widget.VerticalItemDecoration
 
 /**
- * @author:Hzj
- * @date  :2020/5/15
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：google maven search 列表分组adapter
  * record：
  */

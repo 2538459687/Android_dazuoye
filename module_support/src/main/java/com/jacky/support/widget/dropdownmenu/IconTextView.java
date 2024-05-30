@@ -11,8 +11,8 @@ import com.jacky.support.R;
 
 
 /**
- * @author:Hzj
- * @date :2018/5/29/029
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：解决TextView 宽度为Matchparent 时 drawablepadding 无效
  * record：
  */

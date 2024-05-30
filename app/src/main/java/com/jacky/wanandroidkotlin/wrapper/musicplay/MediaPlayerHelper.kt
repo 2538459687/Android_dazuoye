@@ -5,8 +5,8 @@ import android.util.Log
 import com.hjq.toast.Toaster
 
 /**
- * @author:Hzj
- * @date  :2020/12/14
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：基于MediaPlayer播放音乐
  * record：
  */

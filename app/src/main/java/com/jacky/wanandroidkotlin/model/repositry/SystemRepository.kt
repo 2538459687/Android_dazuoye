@@ -6,8 +6,8 @@ import com.jacky.wanandroidkotlin.model.entity.TreeParentEntity
 import com.jacky.wanandroidkotlin.model.entity.WanResponse
 
 /**
- * @author:Hzj
- * @date  :2019/7/5/005
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：体系 数据仓库
  * record：
  */

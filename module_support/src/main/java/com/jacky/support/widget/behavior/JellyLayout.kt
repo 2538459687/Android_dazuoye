@@ -8,7 +8,7 @@ import androidx.core.view.ViewCompat
 /**
  * 弹性布局
  *
- * @author https://github.com/funnywolfdadada
+ * @Author:YumDreaming
  * @since 2020/9/28
  */
 class JellyLayout @JvmOverloads constructor(

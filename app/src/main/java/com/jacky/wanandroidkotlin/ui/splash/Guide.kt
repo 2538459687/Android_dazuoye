@@ -18,8 +18,8 @@ import com.jacky.wanandroidkotlin.ui.adapter.BaseViewPager2Adapter
 import com.jacky.wanandroidkotlin.util.setOnAntiShakeClickListener
 
 /**
- * @author:Hzj
- * @date  :2022/10/8
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：引导页,使用lottie动画
  * record：
  */

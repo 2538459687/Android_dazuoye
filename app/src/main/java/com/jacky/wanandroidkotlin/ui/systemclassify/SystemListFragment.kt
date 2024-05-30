@@ -27,8 +27,8 @@ import com.jacky.support.utils.LoggerKit
 import com.jacky.support.widget.VerticalItemDecoration
 
 /**
- * @author:Hzj
- * @date  :2019/7/5/005
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：体系列表 ,公众号分类页面共用
  * record：
  */

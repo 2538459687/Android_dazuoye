@@ -1,8 +1,8 @@
 package com.jacky.wanandroidkotlin.wrapper.musicplay
 
 /**
- * @author:Hzj
- * @date  :2020/12/14
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：播放过程回调接口
  * record：
  */

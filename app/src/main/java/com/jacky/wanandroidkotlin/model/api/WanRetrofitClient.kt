@@ -13,8 +13,8 @@ import okhttp3.OkHttpClient
 import java.io.File
 
 /**
- * @author:Hzj
- * @date  :2019/7/2/002
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：WanAndroid api 管理cookie
  * record：
  */

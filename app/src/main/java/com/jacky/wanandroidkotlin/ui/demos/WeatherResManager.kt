@@ -11,8 +11,8 @@ import com.jacky.wanandroidkotlin.R
 import com.jacky.wanandroidkotlin.model.entity.WeatherIconBean
 
 /**
- * @author:Hzj
- * @date  :2022/11/7
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：天气资源管理
  * record：
  */

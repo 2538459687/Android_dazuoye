@@ -5,8 +5,8 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 
 /**
- * @author:Hzj
- * @date  :2019/7/1/001
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：闪屏页
  * record：
  */

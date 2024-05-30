@@ -1,8 +1,8 @@
 package com.jacky.wanandroidkotlin.ui.music
 
 /**
- * @author:Hzj
- * @date  :2020/12/11
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：仿网易云音乐播放,使用dataBinding学习MVVM
  * record：
  */

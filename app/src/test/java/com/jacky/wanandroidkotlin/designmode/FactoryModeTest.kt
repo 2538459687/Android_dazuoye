@@ -20,8 +20,8 @@ class MsmSender : Sender {
 }
 
 /**
- * @author:Hzj
- * @date  :2022/2/23
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：简单工厂模式
  * record：
  */
@@ -43,8 +43,8 @@ class SenderFactory {
 }
 
 /**
- * @author:Hzj
- * @date  :2022/2/23
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：工厂方法模式,将工厂方法变成静态方法，就变成 静态工厂方法模式
  * record：需要扩展时，会破坏此类，不符合开闭原则，因此引申出抽象工厂模式
  */
@@ -64,8 +64,8 @@ class SenderFactoryMethod {
 
 
 /**
- * @author:Hzj
- * @date  :2022/2/23
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：抽象工厂模式,将工厂方法抽象化，需要扩展工厂方法时，只需要添加对应工厂实现类即可，避免对工厂类破坏，开闭原则
  * record：
  */

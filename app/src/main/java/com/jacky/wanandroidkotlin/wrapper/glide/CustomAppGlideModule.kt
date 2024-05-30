@@ -11,7 +11,7 @@ import java.io.InputStream
 
 
 /**
- * @author:Hzj
+ * @Author:YumDreaming
  * @date  :2018/12/13/013
  * desc  ：为运用程序定义一个带有@GlideModule注解的AppGlideModule，运用程序会使用和AppGlideMoudle同一个包下的GlideApp类。
  *         通过GlideApp.with()方式使用Glide的Generated API。

@@ -98,4 +98,16 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+
+    applicationVariants.all { variant ->
+        variant.outputs.each { output ->
+            def newFileName
+            if (variant.buildType.name == "debug") {
+                newFileName = "WanAndroid-Debug-V${variant.versionName}.apk"
+            } else if (variant.buildType.name == "release") {
+                newFileName = "WanAndroid-Release-V${variant.versionName}.apk"
+            }
+            output.outputFileName = newFileName
+        }
+    }
 }

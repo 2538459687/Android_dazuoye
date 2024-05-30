@@ -53,8 +53,8 @@ import com.jacky.wanandroidkotlin.ui.demos.WeatherActivity
 
 
 /**
- * @author:Hzj
- * @date  :2019/7/1/001
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：首页Tab
  * record：
  */

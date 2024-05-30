@@ -13,8 +13,8 @@ import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.MainScope
 
 /**
- * @author:Hzj
- * @date  :2020/5/15
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：app初始化页面
  * record：
  */

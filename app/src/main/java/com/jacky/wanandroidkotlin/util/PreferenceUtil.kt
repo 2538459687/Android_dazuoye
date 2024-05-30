@@ -6,8 +6,8 @@ import java.io.*
 import kotlin.reflect.KProperty
 
 /**
- * @author:Hzj
- * @date  :2018/12/21/021
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：kotlin 属性委托+SharedPreference 工具类
  * record：
  */

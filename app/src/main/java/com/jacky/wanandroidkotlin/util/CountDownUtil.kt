@@ -7,8 +7,8 @@ import androidx.lifecycle.LifecycleOwner
 import kotlinx.coroutines.*
 
 /**
- * @author:Hzj
- * @date  :2020/6/16
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：倒计时工具类
  * record：coroutineScope使用委托
  */

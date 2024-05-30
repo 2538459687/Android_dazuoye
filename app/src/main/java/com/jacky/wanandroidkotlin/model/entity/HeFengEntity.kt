@@ -4,8 +4,8 @@ import java.util.Date
 
 
 /**
- * @author:Hzj
- * @date  :2022/10/28
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：和风天气数据实体
  * record：
  */

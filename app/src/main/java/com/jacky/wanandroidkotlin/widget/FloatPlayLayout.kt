@@ -22,8 +22,8 @@ import com.jacky.wanandroidkotlin.wrapper.orNotNullNotEmpty
 import kotlin.math.absoluteValue
 
 /**
- * @author:Hzj
- * @date  :2020/12/10
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：自定义悬浮播放控件
  * record：
  */

@@ -8,7 +8,7 @@ import androidx.core.view.ViewCompat
 /**
  * 底部弹层
  *
- * @author https://github.com/funnywolfdadada
+ * @Author:YumDreaming
  * @since 2020/9/26
  */
 class BottomSheetLayout @JvmOverloads constructor(

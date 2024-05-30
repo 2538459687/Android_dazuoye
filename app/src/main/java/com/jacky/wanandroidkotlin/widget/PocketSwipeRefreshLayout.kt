@@ -8,8 +8,8 @@ import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
 
 
 /**
- * @author:Hzj
- * @date  :2019/7/5/005
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：解决SwipeRefreshLayout与viewPager滑动冲突
  * record：
  */

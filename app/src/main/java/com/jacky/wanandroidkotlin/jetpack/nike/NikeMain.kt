@@ -26,7 +26,7 @@ import com.jacky.wanandroidkotlin.databinding.ActivityNikeMainBinding
 
 
 /**
- * @author:Hzj
+ * @Author:YumDreaming
  * @date  :2020/8/28
  * desc  ：
  * record：

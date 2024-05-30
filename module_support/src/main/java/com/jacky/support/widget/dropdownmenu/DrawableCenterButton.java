@@ -6,8 +6,8 @@ import android.util.AttributeSet;
 import androidx.appcompat.widget.AppCompatButton;
 
 /**
- * @author:Hzj
- * @date :2018/11/5/005
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：解决button设置drawable不能与文字居中的问题，
  * 同理用于TextView,修改onLayout()即可
  * record：

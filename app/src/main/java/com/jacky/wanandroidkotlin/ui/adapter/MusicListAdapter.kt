@@ -10,8 +10,8 @@ import com.jacky.wanandroidkotlin.wrapper.musicplay.AudioBean
 import com.jacky.wanandroidkotlin.wrapper.orNotNullNotEmpty
 
 /**
- * @author:Hzj
- * @date  :2020/12/21
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：音乐列表adapter
  * record：
  */

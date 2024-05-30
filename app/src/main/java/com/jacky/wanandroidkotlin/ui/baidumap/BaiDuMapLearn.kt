@@ -1,8 +1,8 @@
 package com.jacky.wanandroidkotlin.ui.baidumap
 
 /**
- * @author:Hzj
- * @date  :2021/9/16
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：
  * record：
  */

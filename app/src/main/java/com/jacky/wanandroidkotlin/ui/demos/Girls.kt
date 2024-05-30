@@ -1,8 +1,8 @@
 package com.jacky.wanandroidkotlin.ui.demos
 
 /**
- * @author:Hzj
- * @date  :2020-01-19
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：
  * record：
  */

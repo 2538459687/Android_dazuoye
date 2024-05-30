@@ -1,8 +1,8 @@
 package com.jacky.wanandroidkotlin;
 
 /**
- * @author:Hzj
- * @date :2019/6/26/026
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：线程死锁
  * record：
  */

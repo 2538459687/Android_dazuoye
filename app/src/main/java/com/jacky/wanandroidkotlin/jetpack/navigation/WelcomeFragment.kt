@@ -1,8 +1,8 @@
 package com.jacky.wanandroidkotlin.jetpack.navigation
 
 /**
- * @author:Hzj
- * @date  :2020/7/28
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ：
  * record：
  */

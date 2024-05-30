@@ -21,8 +21,8 @@ import com.jacky.wanandroidkotlin.wrapper.setOnAntiShakeClickListener
 import com.jacky.support.router.Router
 
 /**
- * @author:Hzj
- * @date  :2020/5/8
+ * @Author:YumDreaming
+ * @date :2024/5/30
  * desc  ： 设置
  * record：
  */
